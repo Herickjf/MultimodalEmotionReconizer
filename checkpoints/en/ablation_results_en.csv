@@ -1,0 +1,8 @@
+dataset,modalities,mask,val_f1_macro,test_acc,test_precision,test_recall,test_f1_macro
+en,text+audio,110,0.3912,0.3333,0.3709,0.3312,0.3328
+en,text+images,101,0.4638,0.2889,0.3182,0.2862,0.2897
+en,text,100,0.3424,0.2889,0.2996,0.2848,0.2892
+en,images,001,0.3932,0.2778,0.2834,0.2756,0.2662
+en,audio+images,011,0.4056,0.3,0.2409,0.295,0.2558
+en,text+audio+images,111,0.4254,0.3,0.2471,0.2996,0.251
+en,audio,010,0.3309,0.1667,0.2054,0.1646,0.1663

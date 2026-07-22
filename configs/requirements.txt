@@ -1,0 +1,15 @@
+torch 
+torchvision 
+torchaudio 
+transformers 
+timm
+opencv-python 
+ffmpeg-python
+accelerate 
+datasets 
+evaluate
+torchmetrics 
+scikit-learn
+matplotlib 
+pandas 
+tqdm
