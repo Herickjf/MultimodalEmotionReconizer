@@ -4,3 +4,7 @@ videos/
 videos_dub/
 processed/
 processed_pt/
+processed_en/
+.venv-torch/
+questao3_4.ipynb
+checkpoints/
